@@ -53,7 +53,3 @@
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
-
----
-
-Si necesitas más personalización, no dudes en decírmelo.
